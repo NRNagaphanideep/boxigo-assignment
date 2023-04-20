@@ -15,14 +15,14 @@
 
 .inventory-item-heading {
   font-family: 'Roboto';
-  color: ##f5190a;
+  color: #f5190a;
   font-size: 17px;
 }
 
 .itemsCountContainer {
   border-radius: 20px;
   margin-left: 10px;
-  background-color: ##f5190a;
+  background-color: #f5190a;
 }
 
 .items-count {
@@ -44,6 +44,7 @@
 .arrow-button {
   border-width: 0px;
   background-color: transparent;
+  cursor:pointer;
 }
 
 .inventory-description-list-container {
