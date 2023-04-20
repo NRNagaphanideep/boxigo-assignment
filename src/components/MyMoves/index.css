@@ -1,0 +1,205 @@
+.my-moves-list-item {
+  list-style-type: none;
+}
+.from-to-address-container {
+  display: flex;
+  justify-content: space-between;
+}
+.from-to-heading {
+  font-family: 'Roboto';
+  color: #000000;
+  font-size: 15px;
+}
+
+.arrow-container {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  border-radius: 15px;
+  justify-content: center;
+  box-shadow: 0px 5px 16px 0px #f2efe6;
+  margin-left: 30px;
+}
+
+.arrow {
+  color: #f5190a;
+  font-size: 20px;
+}
+
+.from-to-address-heading {
+  font-family: 'Roboto';
+  font-size: 17px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.from-to-address-description {
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 13px;
+  margin-top: 0px;
+}
+
+.estimation-id {
+  color: #f5190a;
+  font-weight: bold;
+}
+
+.from-address-container {
+  width: 32%;
+}
+.next-arrow-container {
+  width: 15%;
+  align-self: center;
+}
+
+.to-address-container {
+  width: 32%;
+}
+
+.estimate-id-container {
+  width: 20%;
+  padding-left: 50px;
+}
+.moving-details-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.moving-details-item-container {
+  display: flex;
+  align-items: center;
+}
+
+.moving-details-item-logo {
+  color: #f5190a;
+  font-size: 28px;
+}
+.moving-details-item-description {
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 13px;
+  margin-left: 10px;
+}
+.disclaimer-description {
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 13px;
+  padding-right: 20px;
+}
+.pen {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.checkbox {
+  color: #f5190a;
+  font-size: 17px;
+}
+
+.view-move-details-btn {
+  font-family: 'Roboto';
+  color: #f5190a;
+  font-size: 13px;
+  padding: 7px;
+  font-weight: bold;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: 2px solid #f5190a;
+  border-radius: 5px;
+  background-color: transparent;
+}
+
+.quotes-btn {
+  font-family: 'Roboto';
+  color: #fef2f4;
+  font-size: 13px;
+  font-weight: bold;
+  padding: 7px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 5px;
+  margin-left: 5px;
+  border-width: 0px;
+  background-color: #f5190a;
+  border: 2px solid #f5190a;
+}
+
+.disclaimer-container {
+  display: flex;
+  align-items: center;
+}
+
+.disclaimer-logo {
+  color: #f5190a;
+  font-size: 15px;
+}
+.disclaimer {
+  font-weight: bold;
+  color: #000000;
+}
+
+.hr-ine {
+  background-color: #cbd2d9;
+  height: 1px;
+  border-width: 0px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.additional-information-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.edit-additional-info-button {
+  background-color: #000000;
+  font-family: 'Roboto';
+  color: #fef2f4;
+  font-size: 13px;
+  font-weight: bold;
+  padding: 7px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+  margin-left: 5px;
+  border-width: 0px;
+}
+
+.additional-info-heading {
+  font-family: 'Roboto';
+  color: #000000;
+  font-size: 17px;
+}
+
+.existing-house-details-container {
+  display: flex;
+  align-items: center;
+}
+
+.existing-house-details-item-heading {
+  font-family: 'Roboto';
+  color: #000000;
+  font-size: 13px;
+}
+.orange {
+  color: #f5190a;
+}
+.existing-house-details-item {
+  margin-right: 150px;
+}
+.existing-house-details-item-description {
+  color: #475569;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+
+.inventory-item-details-list-container {
+  padding-left: 0px;
+  margin-top: 30px;
+}

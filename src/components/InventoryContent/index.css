@@ -1,0 +1,54 @@
+.inventory-item-details-list-item {
+  list-style-type: none;
+}
+
+.inventory-item-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 5px;
+  background-color: #cbd2d9;
+  justify-content: space-between;
+}
+
+.inventory-item-heading {
+  font-family: 'Roboto';
+  color: ##f5190a;
+  font-size: 17px;
+}
+
+.itemsCountContainer {
+  border-radius: 20px;
+  margin-left: 10px;
+  background-color: ##f5190a;
+}
+
+.items-count {
+  color: #fef2f4;
+  font-size: 13px;
+  font-family: 'Roboto';
+  align-self: center;
+  padding: 3px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 0px;
+}
+
+.inventory-item-name-container {
+  display: flex;
+  align-items: center;
+}
+
+.arrow-button {
+  border-width: 0px;
+  background-color: transparent;
+}
+
+.inventory-description-list-container {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0px;
+  justify-content: space-between;
+}
