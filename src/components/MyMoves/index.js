@@ -221,7 +221,7 @@ class MyMoves extends Component {
         <div className="disclaimer-container">
           <BsFillExclamationTriangleFill className="disclaimer-logo" />
           <p className="disclaimer-description">
-            <span className="disclaimer">Disclaimer:</span>
+            <span className="disclaimer">Disclaimer :</span>
             Please update your move date before two days of shifting
           </p>
         </div>
