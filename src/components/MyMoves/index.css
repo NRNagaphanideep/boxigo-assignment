@@ -139,10 +139,13 @@
 .disclaimer-logo {
   color: #f5190a;
   font-size: 15px;
+  margin-right:10px;
 }
+
 .disclaimer {
   font-weight: bold;
   color: #000000;
+  margin-right:10px;
 }
 
 .hr-ine {
